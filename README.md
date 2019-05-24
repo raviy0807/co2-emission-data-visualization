@@ -8,7 +8,7 @@ of visualization tasks. The “CO2 Emissions from Fossil Fuels since 1751, By Na
 used for the task. The dataset is present in datahub.io and it is prepared by Carbon Dioxide
 Information Analysis Center.
 
-## I have implemented 3 visualization to understand the CO2 Emission by various nations.
+## 3 Visualization to understand the CO2 Emission of various nation.
 
 1. **Heat Map of CO2 Emission by Nation [Tableau]:** The heat map is implemented in Tableau Software. The objective is to visualize the variation in CO2 emission of various countries from 1751 to 2014.
 2. **Comparison of Top 5 Country’s CO2 Emission in different form [Tableau]:** The idea is to identify the top 5 countries who spread maximum pollution by CO2 emission since 1751. Later, I thought of understanding the trend and comparing these 5 countries over 263 years starting from 1751. The comparison was performed on co2 emission by different “category of fossil fuel” (solid/liquid/gas). This visualization was also implemented in Tableau software with animation.

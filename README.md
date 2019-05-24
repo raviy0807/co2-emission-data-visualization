@@ -1,4 +1,4 @@
-# co2-emission-tableau-data-visualization
+# CO2 Emission Data Visualization
 
 
 The aim of the visualization is to create awareness among the people related to CO2 Emission by
@@ -16,4 +16,6 @@ Information Analysis Center.
 
 
 [1] “History.com,” A&E Television Networks, 06 11 2009. [Online]. Available: https://www.history.com/topics/natural-disasters-and-environment/water-and-air-pollution. [Accessed 2019].
+
+
 [2] J. C. S. H. C. P. C. F. Boutron, “Post‐Industrial Revolution changes in large‐scale atmospheric pollution of the northern hemisphere by heavy metals as documented in central Greenland snow and ice,” in American Geophysical Union., 1995
